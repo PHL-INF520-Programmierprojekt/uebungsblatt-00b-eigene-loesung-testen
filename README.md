@@ -3,7 +3,7 @@
 
 In diesem Übungsblatt lernt ihr Testfälle in Java-Projekten kennen und lernt, wie ihr die integrierten Testfälle nutzen könnt, um eure Lösung zu kontrollieren. 
 Alle Übungsblätter in der Veranstaltung **INF520-Programmierprojekt** enthalten Testfälle, die euch dabei unterstützen sollen, die Aufgaben richtig zu lösen. Die Testfälle helfen euch aber natürlich nur dann, wenn ihr sie auch regelmäßig ausführt.
-In diesem Übungsblatt geht es **nicht** darum, dass ihr selbst Testfälle für eure Programme schreiben könnt. Dies lernt ihr bei einem späteren Übungsblatt.
+In diesem Übungsblatt geht es **nicht** darum, dass ihr selbst Testfälle für eure Programme schreiben könnt. Dies lernt ihr in einem späteren Übungsblatt.
 
 ## Übung 0: Tutorial zu Tests in Visual Studio Code
 
